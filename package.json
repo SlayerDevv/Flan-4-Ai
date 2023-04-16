@@ -1,6 +1,6 @@
 {
   "name": "flan-4-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Lnaguage Ai",
   "main": "index.js",
   "scripts": {
